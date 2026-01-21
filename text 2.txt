@@ -1,0 +1,59 @@
+SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC) FOR SimpleTodoApp
+
+1. Planning
+
+The SimpleTodoApp is designed to help users add and view tasks they want to perform. The goal of the project is to create a simple and user-friendly task management system using Python.
+
+⸻
+
+2. Requirements Analysis
+
+The system requirements for SimpleTodoApp include:
+	•	The user should be able to add a task
+	•	The user should be able to view all tasks
+	•	The program should run in a terminal environment
+	•	The application should be simple and lightweight
+
+⸻
+
+3. System Design
+
+The SimpleTodoApp is designed as a console-based application.
+The system design includes:
+	•	A list to store tasks
+	•	Functions for adding and viewing tasks
+	•	A menu system for user interaction
+
+⸻
+
+4. Implementation
+
+The system is implemented using Python.
+The application uses:
+	•	Python lists for storing tasks
+	•	Functions for system operations
+	•	Conditional statements for menu selection
+
+⸻
+
+5. Testing
+
+The SimpleTodoApp was tested by:
+	•	Adding multiple tasks
+	•	Viewing tasks to confirm correct display
+	•	Checking invalid input handling
+
+⸻
+
+6. Deployment
+
+The application is deployed by uploading the Python source code to GitHub, making it accessible for review and execution.
+
+⸻
+
+7. Maintenance
+
+Future improvements may include:
+	•	Task deletion
+	•	Task editing
+	•	File storage support
